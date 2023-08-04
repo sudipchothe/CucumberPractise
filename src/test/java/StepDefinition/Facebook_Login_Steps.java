@@ -20,6 +20,7 @@ public class Facebook_Login_Steps extends BaseClass{
 		System.out.println("TC started");
 		driver = new ChromeDriver();
 		driver.get("https://www.facebook.com/login");
+		System.out.println();
 	}
 	
 	
